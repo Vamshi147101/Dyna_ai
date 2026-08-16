@@ -8,7 +8,7 @@ import re
 from concurrent.futures import ThreadPoolExecutor
 from openai import OpenAI
 
-# ─── PAGE CONFIG ───
+# ─── PAGE CONFIGURATION ───
 st.set_page_config(
     page_title="LS-DYNA Debug Assistant",
     page_icon="🔧",
